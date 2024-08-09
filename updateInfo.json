@@ -1,9 +1,9 @@
 {
-    "code": 2,     //0停更 1小更新 2大更新
-    "version": "1.2",//版本号
-    "branch": "Stable", //stable-稳定版 alpha-早期测试版 beta-测试版
-    "url": "https://github.com/naloder/FlameErodeXero/archive/refs/heads/main.zip",//github源文件打包下载
-    "time": 1723219847, //时间戳
-    "size": 337573112, //文件大小
-    "md5": "5935e7f7d660687ebbf87f39ebff664d"
+    "code": 2,
+    "version": "1.2",
+    "branch": "Stable",
+    "update_url": "https://dl.dropboxusercontent.com/scl/fi/h9yj4w54fyxaqo1xpvebq/FEX_1.2.zip?rlkey=bzhm4rp6oix183gks06wv1gif&st=bc7w9e5e&dl=0",
+    "time": 1723219847,
+    "size": 329381731,
+    "md5": "96a9049184f98ba84ecfbb4ab7c730cc"
 }
