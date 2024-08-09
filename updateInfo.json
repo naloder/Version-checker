@@ -1,0 +1,9 @@
+{
+    "code": 2,     //0停更 1小更新 2大更新
+    "version": "1.2",//版本号
+    "branch": "Stable", //stable-稳定版 alpha-早期测试版 beta-测试版
+    "url": "https://github.com/naloder/FlameErodeXero/archive/refs/heads/main.zip",//github源文件打包下载
+    "time": 1723219847, //时间戳
+    "size": 337573112, //文件大小
+    "md5": "5935e7f7d660687ebbf87f39ebff664d"
+}
